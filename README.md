@@ -1,6 +1,6 @@
 ### Well hello there!
 
-#### hh
+#### I'm a genius.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
